@@ -1,0 +1,32 @@
+/*
+    Nord Color Theme
+*/
+
+:root {
+  /* Polar Night */
+  --dark-5: #7c869a;
+  --dark-4: #4c566a;
+  --dark-3: #434c5e;
+  --dark-2: #3b4252;
+  --dark-1: #2e3440;
+  --dark-nav: #2e344090;
+  --dark-card: #282e3a;
+
+  /* Snow Storm */
+  --light-3: #eceff4;
+  --light-2: #e5e9f0;
+  --light-1: #d8dee9;
+
+  /* Frost */
+  --frost-4: #8fbcbb;
+  --frost-3: #88c0d0;
+  --frost-2: #81a1c1;
+  --frost-1: #5e81ac;
+
+  /* Aurora */
+  --aurora-red: #bf616a;
+  --aurora-orange: #d08770;
+  --aurora-yellow: #ebcb8b;
+  --aurora-green: #a3be8c;
+  --aurora-purple: #b48ead;
+}
